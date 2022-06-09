@@ -3,7 +3,7 @@ from GitHub import ReadMe
 
 class Frogy(ReadMe):
     def __init__(self):
-        self.url = "https://github.com/TurfuFrogy/TurfuFrogy/README.md"
+        self.profileUrl = "https://github.com/TurfuFrogy"
         self.username = "Frogy"
         
         self.contacts = {
