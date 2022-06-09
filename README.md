@@ -1,16 +1,21 @@
-### Hi there 👋
+```py
+from GitHub import ReadMe
 
-<!--
-**TurfuFrogy/TurfuFrogy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Frogy(ReadMe):
+    def __init__(self):
+        self.url = "https://github.com/TurfuFrogy/TurfuFrogy/README.md"
+        self.username = "Frogy"
+        
+        self.contacts = {
+            "Discord": "Frogy#1337",
+        }
+        
+        self.usedLanguages = [
+            "Python",
+            "JavaScript",
+            "HTML"
+        ]
+        
+        self.age = "7"
+        self.occupation = "Freelance Developer"
+ ```
