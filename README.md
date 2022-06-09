@@ -18,4 +18,6 @@ class Frogy(ReadMe):
         
         self.age = "7"
         self.occupation = "Freelance Developer"
+        
+ Frogy()
  ```
