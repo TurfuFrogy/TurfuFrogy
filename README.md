@@ -13,7 +13,7 @@ class Frogy(ReadMe):
         self.usedLanguages = [
             "Python",
             "JavaScript",
-            "HTML"
+            "HTML" # not a real language btw
         ]
         
         self.age = "7"
