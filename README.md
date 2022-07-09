@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=TurfuFrogy&color=brightgreen&style=for-the-badge)
+
 ```py
 from GitHub import ReadMe
 
